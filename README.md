@@ -88,4 +88,4 @@ The Tableau dashboard includes the following visuals:
 ### 📘 Conclusion
 
 The project successfully identified high-performing products, customer buying trends, and optimal restocking times. The insights are crucial for improving vending machine efficiency and guiding data-driven marketing strategies.
-
+![Image](https://github.com/ramyaa0805/Coffee-Sales/blob/2315369f8a1dd05ce4fe9bb7c3a1658ceeb5f8b9/WhatsApp%20Image%202025-10-05%20at%2011.57.19_f8c5f0b1.jpg)
