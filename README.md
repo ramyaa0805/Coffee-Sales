@@ -89,5 +89,3 @@ The Tableau dashboard includes the following visuals:
 
 The project successfully identified high-performing products, customer buying trends, and optimal restocking times. The insights are crucial for improving vending machine efficiency and guiding data-driven marketing strategies.
 
-
-Would you like me to format this as a **Markdown README file (`README.md`)** so you can directly upload it to your GitHub repository?
